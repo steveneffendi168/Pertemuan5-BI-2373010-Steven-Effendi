@@ -1,0 +1,63 @@
+{
+  "desktop": {
+    "Ringkasan": {
+      "charts": 2,
+      "overflow": false
+    },
+    "Tren": {
+      "charts": 3,
+      "overflow": false
+    },
+    "Gerai": {
+      "charts": 5,
+      "overflow": false
+    },
+    "Produk": {
+      "charts": 5,
+      "overflow": false
+    },
+    "Waktu": {
+      "charts": 4,
+      "overflow": false
+    },
+    "Keputusan": {
+      "charts": 0,
+      "overflow": false
+    },
+    "Data & Audit": {
+      "charts": 0,
+      "overflow": false
+    }
+  },
+  "mobile": {
+    "Ringkasan": {
+      "overflow": false,
+      "clipped_metrics": 0
+    },
+    "Produk": {
+      "overflow": false,
+      "clipped_metrics": 0
+    },
+    "Waktu": {
+      "overflow": false,
+      "clipped_metrics": 0
+    },
+    "Keputusan": {
+      "overflow": false,
+      "clipped_metrics": 0
+    }
+  },
+  "downloads": {
+    "excel_sheets": [
+      "Indikator",
+      "Bulanan",
+      "Gerai",
+      "Produk",
+      "Kategori",
+      "Jam"
+    ],
+    "csv_rows": 149116,
+    "decision_report": true
+  },
+  "browser_errors": []
+}
